@@ -57,8 +57,6 @@ const Header = () => {
                                     <NavLink title="features" />
                                     <div className="dot" />
                                     <NavLink title="pricing" />
-                                    <div className="dot" />
-                                    <NavLink title="faq" />
                                 </li>
 
                                 <li className="nav-logo">
@@ -81,11 +79,9 @@ const Header = () => {
                                 </li>
 
                                 <li className="nav-li">
-                                    <NavLink title="testimonials" />
+                                    <NavLink title="faq" />
                                     <div className="dot" />
                                     <NavLink title="download" />
-                                    <div className="dot" />
-                                    <NavLink title="contact" />
                                 </li>
                             </ul>
                         </nav>
